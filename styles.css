@@ -3,3 +3,7 @@
     background-color: antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+h1{
+    border : 2px solid red;
+    padding : 10px;
+}
